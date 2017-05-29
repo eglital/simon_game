@@ -21,6 +21,6 @@ The user can play in strict mode where if he gets a button press wrong, it notif
 The user can win the game by getting a series of 20 steps correct. He is notified of his victory, then the game starts over.
 
 # Built with:
--* JavaScript
--* jQuery
--* SASS
+* JavaScript
+* jQuery
+* SASS
